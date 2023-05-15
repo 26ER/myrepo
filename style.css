@@ -3,6 +3,10 @@
         {
             font-family: 'Poppins', sans-serif;
         }
+        html
+        {
+           scroll-behaviour: smooth;
+        }
         h1 img
         {
             height: 40px;
